@@ -1,0 +1,13 @@
+E:\vs\test\test\obj\Debug\test.Form1.resources
+E:\vs\test\test\obj\Debug\test.Form2.resources
+E:\vs\test\test\obj\Debug\test.Form3.resources
+E:\vs\test\test\obj\Debug\test.Properties.Resources.resources
+E:\vs\test\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\vs\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\vs\test\test\bin\Debug\test.exe.config
+E:\vs\test\test\bin\Debug\test.exe
+E:\vs\test\test\bin\Debug\test.pdb
+E:\vs\test\test\obj\Debug\test.exe
+E:\vs\test\test\obj\Debug\test.pdb
+E:\vs\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\vs\test\test\obj\Debug\test.Form4.resources
